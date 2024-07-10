@@ -1,5 +1,5 @@
 # M-CD
-This repository contains the code for "A Mamba-based Siamese Network for Remote Sensing Change Detection". Project page can be found [here](https://jayparanjape.github.io/M-CD/)
+This repository contains the code for ["A Mamba-based Siamese Network for Remote Sensing Change Detection"](https://arxiv.org/abs/2407.06839). Project page can be found [here](https://jayparanjape.github.io/M-CD/)
 
 ## Abstract
 Change detection in remote sensing images is an essential tool for analyzing a region at different times. It finds varied applications in monitoring environmental changes, man-made changes as well as corresponding decision-making and prediction of future trends. Deep learning methods like Convolutional Neural Networks (CNNs) and Transformers have achieved remarkable success in detecting significant changes, given two images at different times. In this paper, we propose a Mamba-based Change Detector (M-CD) that segments out the regions of interest even better. Mamba-based architectures demonstrate linear-time training capabilities and an improved receptive field over transformers. Our experiments on four widely used change detection datasets demonstrate significant improvements over existing state-of-the-art (SOTA) methods.
