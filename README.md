@@ -24,7 +24,7 @@ cd models/encoders/selective_scan && pip install . && cd ../../..
 - eval.py - driver file for evaluation. Instructions below
 
 ## Link to model checkpoints
-Coming Soon
+You can find the dataset wise checkpoints [here](https://drive.google.com/drive/folders/1V9c34QNVVUdVGppfSxi1dH7XyaEnm6YU?usp=sharing)
 
 ## Datasets
 
