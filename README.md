@@ -70,11 +70,11 @@ Please make sure to change the root folder in the config files available in the 
 For custom datasets, you would need to create a config file similar to the existing files in "config" folder.
 
 ## Training
-1. Please download the pretrained [VMamba](https://github.com/MzeroMiko/VMamba) weights:
+1. Please download the pretrained [VMamba]([https://github.com/MzeroMiko/VMamba](https://drive.google.com/drive/folders/1nSgzU-j0MVIbx4mG5xPKYnj1T_2CFBJu?usp=sharing)) weights:
 
-    - [VMamba_Tiny](https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmtiny_dp01_ckpt_epoch_292.pth).
-    - [VMamba_Small](https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmsmall_dp03_ckpt_epoch_238.pth).
-    - [VMamba_Base](https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmbase_dp06_ckpt_epoch_241.pth).
+    - [VMamba_Tiny]([https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmtiny_dp01_ckpt_epoch_292.pth](https://drive.google.com/drive/folders/1nSgzU-j0MVIbx4mG5xPKYnj1T_2CFBJu?usp=sharing)).
+    - [VMamba_Small]([https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmsmall_dp03_ckpt_epoch_238.pth](https://drive.google.com/drive/folders/1nSgzU-j0MVIbx4mG5xPKYnj1T_2CFBJu?usp=sharing)).
+    - [VMamba_Base]([https://github.com/MzeroMiko/VMamba/releases/download/%2320240218/vssmbase_dp06_ckpt_epoch_241.pth](https://drive.google.com/drive/folders/1nSgzU-j0MVIbx4mG5xPKYnj1T_2CFBJu?usp=sharing)).
 
     <u> Please put them under `pretrained/vmamba/`. </u>
 
